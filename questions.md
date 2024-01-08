@@ -1,6 +1,7 @@
 Questions
 
-Question 1
+Question 1:
+
 Julia and Kate are doing a study on dogs. So each of them asked 5 dog owners about their dog's age, and stored the data into an array (one array for each). For now, they are just interested in knowing whether a dog is an adult or a puppy. A dog is an adult if it is at least 3 years old, and it's a puppy if it's less than 3 years old.
 
 Create a function 'checkDogs', which accepts 2 arrays of dog's ages ('dogsJulia' and 'dogsKate'), and does the following things:
@@ -14,7 +15,8 @@ TEST DATA 1: Julia's data [3, 5, 2, 12, 7], Kate's data [4, 1, 15, 8, 3]
 TEST DATA 2: Julia's data [9, 16, 6, 8, 3], Kate's data [10, 5, 6, 1, 4]
 
 
-Question 2
+Question 2:
+
 Let's go back to Julia and Kate's study about dogs. This time, they want to convert dog ages to human ages and calculate the average age of the dogs in their study.
 
 Create a function 'calcAverageHumanAge', which accepts an arrays of dog's ages ('ages'), and does the following things in order:
@@ -29,6 +31,7 @@ TEST DATA 2: [16, 6, 10, 5, 6, 1, 4]
 
 
 Question 3:
+
 Get the team names directly from the game object, don't hardcode them.
 
 1. In the below object, calculate the average of all values within odds. (Use a loop to do so)
@@ -83,6 +86,7 @@ team2: 6.5,
 
 
 Question 4:
+
 What will be the output of the following code?
 
 function outer() {
@@ -99,6 +103,7 @@ innerFunc();
 innerFunc();
 
 Question 5:
+
 Sort the below array in ascending order and get the maximum value:
 
 {10, 20, 15, 2, 23, 90, 67}
