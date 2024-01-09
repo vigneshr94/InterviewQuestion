@@ -41,8 +41,7 @@ Get the team names directly from the game object, don't hardcode them.
       Odd of victory Borrussia Dortmund: 6.5
 3. Create an object called 'scorers' which contains the names of the players who scored as properties, and the number of goals as the value. 
 
-\*/
-
+```JavaScript
 const game = {
 team1: 'Bayern Munich',
 team2: 'Borrussia Dortmund',
@@ -83,7 +82,7 @@ x: 3.25,
 team2: 6.5,
 },
 };
-
+```
 
 Question 4:
 
