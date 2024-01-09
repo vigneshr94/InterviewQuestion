@@ -88,7 +88,7 @@ team2: 6.5,
 Question 4:
 
 What will be the output of the following code?
-
+```JavaScript
 function outer() {
 
    var x = 10;
@@ -112,7 +112,7 @@ var innerFunc = outer();
 innerFunc();
 
 innerFunc();
-
+```
 
 Question 5:
 
