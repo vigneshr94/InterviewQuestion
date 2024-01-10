@@ -104,6 +104,6 @@ innerFunc();
 
 Question 5:
 
-Sort the below array in ascending order and get the maximum value:
+Sort the below array in ascending order and get the maximum value(do this without using .sort() method):
 
 {10, 20, 15, 2, 23, 90, 67}
